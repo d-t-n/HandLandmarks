@@ -1,2 +1,2 @@
 # HandLandmarks
-Hand landmarks tracking
+Hand landmarks tracking - pimple python code in jupyter notebook.
